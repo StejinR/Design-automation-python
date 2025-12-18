@@ -1,11 +1,12 @@
-# Design Automation using Python
+# Design Automation with Python
 
-This repository contains simple Python scripts to automate
-basic mechanical engineering calculations.
+This repository demonstrates how common mechanical design calculations
+can be automated using Python for repeatability and reduced manual effort.
 
-## Current Scripts
+## Scripts Included
 - shaft_diameter.py – Shaft diameter calculation based on torsion
 - bolt_shear_check.py – Bolt shear safety check
 
-## Tools
-- Python 3
+## Purpose
+To showcase the application of programming in mechanical and product design
+for reliable and reusable engineering calculations.
