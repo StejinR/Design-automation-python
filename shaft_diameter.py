@@ -1,3 +1,9 @@
+"""
+Shaft Diameter Calculation
+Purpose: Calculates the minimum required shaft diameter based on power,
+speed, and allowable shear stress using torsion theory.
+"""
+
 import math
 
 def shaft_diameter(power_kw, speed_rpm, shear_stress_mpa):
