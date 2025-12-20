@@ -1,3 +1,9 @@
+"""
+Bolt Shear Safety Check
+Purpose: Checks whether a bolt is safe in shear for a given load
+based on allowable shear stress.
+"""
+
 import math
 
 def bolt_shear_check(load_n, bolt_diameter_mm, allowable_shear_mpa):
