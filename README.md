@@ -8,5 +8,5 @@ can be automated using Python for repeatability and reduced manual effort.
 - bolt_shear_check.py – Bolt shear safety check
 
 ## Purpose
-To showcase the application of programming in mechanical and product design
-for reliable and reusable engineering calculations.
+To showcase how mechanical design calculations can be converted
+into reusable, parameter-driven scripts.
